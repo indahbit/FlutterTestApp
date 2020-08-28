@@ -1,0 +1,4 @@
+#Wed Aug 26 16:33:58 ICT 2020
+base.0=C\:\\Users\\User\\Documents\\GitHub\\GudangApp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
